@@ -17,11 +17,12 @@ Players control a paddle to bounce a ball and break bricks. With simple controls
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Built With
 
-- **Language:** C++  
-- **Graphics Library:** OpenGL  
-- **Utility Toolkit:** GLUT  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GLUT](https://img.shields.io/badge/GLUT-FF6F00?style=for-the-badge&logo=freebsd&logoColor=white)
+ 
 
 ---
 
