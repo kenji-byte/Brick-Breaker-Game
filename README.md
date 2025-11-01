@@ -7,13 +7,19 @@ Players control a paddle to bounce a ball and break bricks. With simple controls
 
 ## 🎮 Features
 
-- 🎯 **Classic Gameplay:** Control the paddle to keep the ball in play and break all the bricks.
-- 🧩 **Dynamic Ball Physics:** Realistic ball movement and collision detection.
-- 🧱 **Multiple Levels:** Increasing difficulty as you progress through the game.
-- 💥 **Score System:** Earn points for every brick you break.
-- 🎨 **Graphics with OpenGL:** 2D rendering using the OpenGL and GLUT libraries.
-- ⌨️ **Simple Controls:** Easy keyboard-based paddle movement.
-- 🕹️ **Cross-Platform:** Runs on Windows, Linux, and macOS.
+🎯 **Classic Gameplay:** Control the paddle to keep the ball in play and break all the bricks.
+
+🧩 **Dynamic Ball Physics:** Realistic ball movement and collision detection.
+
+🧱 **Multiple Levels:** Increasing difficulty as you progress through the game.
+
+💥 **Score System:** Earn points for every brick you break.
+
+🎨 **Graphics with OpenGL:** 2D rendering using the OpenGL and GLUT libraries.
+
+⌨️ **Simple Controls:** Easy keyboard-based paddle movement.
+
+🕹️ **Cross-Platform:** Runs on Windows, Linux, and macOS.
 
 ---
 
